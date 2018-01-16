@@ -1,4 +1,7 @@
-{-
+{-  Alunos:
+    201511651 JEFSON ALVES MATOS,
+    201020048 JOSÉ CARLOS DA SILVA ADÃO
+    
 	Programa "Sorteando pessoas"
 	Funções do programa:
 		cadastro de nomes de pessoas (grava em arquivo)
